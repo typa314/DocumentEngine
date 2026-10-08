@@ -1,0 +1,7 @@
+{
+  "name": "Hardware & Agent Artifact Indexer",
+  "description": "專業工程檔案結構化索引與規範管理系統：針對電路圖、規格書、Bug測試分析與Agent紀錄檔，提供快速檢索、命名規則校驗與Agent自動化入庫規範。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
